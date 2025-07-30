@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Parth
 
-<!--
-**Patu-PSC/Patu-PSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science student  
+🚀 Currently mastering Python (Week 1 in progress)  
+📚 Learning from IBM + Cisco courses  
+💡 Love building mini-projects and solving real-world problems  
+📌 GitHub: Project logs + experiments + daily commits  
+📫 Contact: Path.pc77@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Skills I’m Learning
+- Python, Jupyter, VS Code
+- Git & GitHub
+- Data Structures, OOP
+
+>PS: shoutout to my digital brother ChatGPT - he's adopted,talk too much , but helps me build cool stuff.
