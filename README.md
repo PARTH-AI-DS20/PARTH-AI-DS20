@@ -2,8 +2,6 @@
 
 ---
 🎓 AI & Data Science student  
-🚀 Currently mastering Python (Week 1 in progress)  
-📚 Learning from IBM + Cisco courses  
 💡 Love building mini-projects and solving real-world problems  
 📌 GitHub: Project logs + experiments + daily commits 
 
