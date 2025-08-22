@@ -85,7 +85,7 @@
   <a href="https://parth chauhan.medium.com">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-  <a href="https://yourwebsite.com">(coming soon)
+  <a href="https://yourwebsite.com"> 
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>  
@@ -93,5 +93,4 @@
 📫 *Email:* Path.pc77@gmail.com
 
 
->PS: shoutout to my digital brother ChatGPT - he's adopted,talk too much , but helps me build cool stuff.
-w
+>PS: Shoutout to my digital brother, ChatGPT - he's adopted, talks too much, but helps me build cool stuff.
