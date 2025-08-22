@@ -1,0 +1,5 @@
+project_name: "ML Pipeline "
+stage: "Level 0"
+message: "Hello "
+Credit: "made by parth chauhan"
+log_file: "logs/app.log"
