@@ -46,11 +46,14 @@
 
 ### 🚀 Featured Projects 
 
-🔹 End-to-End MLOps Pipeline  
-📌 [View Repository](https://github.com/PARTH-AI-DS20/mlops-pipeline)  
+🔹 End-to-End MLOps Pipeline
+
+📌 [View Repository](https://github.com/PARTH-AI-DS20/mlops-pipeline)
+
 - Trained and deployed an ML model using *Docker, CI/CD (GitHub Actions), and Kubernetes*  
 - Automated retraining on new data with *Airflow*  
 - Monitored performance metrics in production
+
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PARTH-AI-DS20&repo=mlops-pipeline&theme=tokyonight)](https://github.com/PARTH-AI-DS20/mlops-pipeline)
 
@@ -58,8 +61,10 @@
 •• ━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
 
 
-🔹 LLMOps RAG Application(n Progress)  
-📌 [View Repository](https://github.com/PARTH-AI-DS20/llmops-rag) 
+🔹 LLMOps RAG Application(n Progress)
+
+📌 [View Repository](https://github.com/PARTH-AI-DS20/llmops-rag)
+
 - Built a *Retrieval-Augmented Generation pipeline* using LangChain + FastAPI  
 - Integrated with *vector database (Pinecone / FAISS)*  
 - Deployed on *AWS/GCP* with containerized scaling  
@@ -68,8 +73,9 @@
 •• ━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
 
 
-🔹 Open Source Contribution – MLflow(Planned) 
-📌 [Pull Request / Repo](https://github.com/mlflow/mlflow/pull/xxxx)  
+🔹 Open Source Contribution – MLflow(Planned)
+
+📌 [Pull Request / Repo](https://github.com/mlflow/mlflow/pull/xxxx)
 - Fixed a bug / added a small feature in *MLflow* (popular MLOps tool)  
 - Learned the workflow of contributing to large OSS projects  
 - Proof of *community involvement* in MLOps
@@ -89,11 +95,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARTH-AI-DS20&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
 
+[![Parth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PARTH-AI-DS20&theme=github_dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=parth-chauhan&color=blue"/>
 </p>
-
-[![Parth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PARTH-AI-DS20&theme=github_dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 •• ━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
