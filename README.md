@@ -1,15 +1,20 @@
-# 👋 Hi, I'm Parth
-
+### 👋 Hi, I'm Parth
 *"Perseverance builds the path; joy makes it worth walking."*
 
----
+
+•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
+
+
 🚀 *Aspiring MLOps Engineer | AI & Data Science Student*  
 💡 Passionate about transforming ML research into *production-ready AI systems*  
 🔧 learning Skills in *Docker, Kubernetes, Cloud, and ML pipelines*  
 🎯 Current Goal: Build scalable and reliable AI solutions 
 
----
-## 🛠 Tech Stack  ( Actively building expertise — always expanding! )
+
+•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
+
+
+### 🛠 Tech Stack  ( Actively building expertise — always expanding! )
 
 *Languages & Scripting*  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -35,10 +40,13 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
----
-## 🚀 Featured Projects ( working on it )
 
-### 🔹 End-to-End MLOps Pipeline  
+•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
+
+
+### 🚀 Featured Projects 
+
+🔹 End-to-End MLOps Pipeline  
 📌 [View Repository](https://github.com/PARTH-AI-DS20/mlops-pipeline)  
 - Trained and deployed an ML model using *Docker, CI/CD (GitHub Actions), and Kubernetes*  
 - Automated retraining on new data with *Airflow*  
@@ -46,26 +54,31 @@
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PARTH-AI-DS20&repo=mlops-pipeline&theme=tokyonight)](https://github.com/PARTH-AI-DS20/mlops-pipeline)
 
----
-(n Progress)
 
-### 🔹 LLMOps RAG Application  
+•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
+
+
+🔹 LLMOps RAG Application(n Progress)  
 📌 [View Repository](https://github.com/PARTH-AI-DS20/llmops-rag) 
 - Built a *Retrieval-Augmented Generation pipeline* using LangChain + FastAPI  
 - Integrated with *vector database (Pinecone / FAISS)*  
 - Deployed on *AWS/GCP* with containerized scaling  
 
----
-(Planned)
 
-### 🔹 Open Source Contribution – MLflow  
+•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
+
+
+🔹 Open Source Contribution – MLflow(Planned) 
 📌 [Pull Request / Repo](https://github.com/mlflow/mlflow/pull/xxxx)  
 - Fixed a bug / added a small feature in *MLflow* (popular MLOps tool)  
 - Learned the workflow of contributing to large OSS projects  
 - Proof of *community involvement* in MLOps
 
----
-## 📊 GitHub Stats  
+
+•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
+
+
+### 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PARTH-AI-DS20&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
@@ -74,7 +87,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARTH-AI-DS20&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=PARTH-AI-DS20&theme=onedark"/>
 </p>
 
 <p align="center">
@@ -83,8 +95,11 @@
 
 [![Parth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PARTH-AI-DS20&theme=github_dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-## 🌐 Connect with Me  
+
+•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
+
+
+### 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://github.com/PARTH-AI-DS20/">
@@ -104,4 +119,5 @@
   </a>
 </p>  
 
----
+
+•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
