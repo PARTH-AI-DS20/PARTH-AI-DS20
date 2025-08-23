@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Parth
+![visitors](https://komarev.com/ghpvc/?username=parth-chauhan&color=blue)
 
 ---
 🚀 *Aspiring MLOps Engineer | AI & Data Science Student*  
