@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Parth
 
+*"Perseverance builds the path; joy makes it worth walking."*
 
 ---
 🚀 *Aspiring MLOps Engineer | AI & Data Science Student*  
@@ -41,7 +42,9 @@
 📌 [View Repository](https://github.com/PARTH-AI-DS20/mlops-pipeline)  
 - Trained and deployed an ML model using *Docker, CI/CD (GitHub Actions), and Kubernetes*  
 - Automated retraining on new data with *Airflow*  
-- Monitored performance metrics in production  
+- Monitored performance metrics in production
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PARTH-AI-DS20&repo=mlops-pipeline&theme=radical)](https://github.com/PARTH-AI-DS20/mlops-pipeline)
 
 ---
 (n Progress)
@@ -77,6 +80,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=parth-chauhan&color=blue"/>
 </p>
+
+[![Parth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PARTH-AI-DS20&theme=github_dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 ## 🌐 Connect with Me  
