@@ -63,7 +63,6 @@
 
 ---
 ## 📊 GitHub Stats  
-...
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PARTH-AI-DS20&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
@@ -95,8 +94,9 @@
   <a href="https://yourwebsite.com"> 
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  <a href="mailto:Path.pc77@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>  
-
-📫 *Email:* Path.pc77@gmail.com
 
 ---
