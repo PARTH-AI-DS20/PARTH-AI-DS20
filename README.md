@@ -70,6 +70,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARTH-AI-DS20&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=PARTH-AI-DS20&theme=onedark"/>
 </p>
 
 ---
@@ -82,7 +83,7 @@
   <a href="https://www.linkedin.com/in/parth-chauhan-434437334/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://parth.chauhan.medium.com">
+  <a href="https://medium.com/@cjaydeep235">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://yourwebsite.com"> 
