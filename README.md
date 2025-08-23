@@ -44,7 +44,7 @@
 - Automated retraining on new data with *Airflow*  
 - Monitored performance metrics in production
 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PARTH-AI-DS20&repo=mlops-pipeline&theme=radical)](https://github.com/PARTH-AI-DS20/mlops-pipeline)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PARTH-AI-DS20&repo=mlops-pipeline&theme=tokyonight)](https://github.com/PARTH-AI-DS20/mlops-pipeline)
 
 ---
 (n Progress)
