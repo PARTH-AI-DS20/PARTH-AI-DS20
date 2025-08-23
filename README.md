@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Parth
-![visitors](https://komarev.com/ghpvc/?username=parth-chauhan&color=blue)
+
 
 ---
 🚀 *Aspiring MLOps Engineer | AI & Data Science Student*  
@@ -8,7 +8,7 @@
 🎯 Current Goal: Build scalable and reliable AI solutions 
 
 ---
-## 🛠 Tech Stack  ( Working on it. )
+## 🛠 Tech Stack  ( Actively building expertise — always expanding! )
 
 *Languages & Scripting*  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -44,7 +44,7 @@
 - Monitored performance metrics in production  
 
 ---
-(coming soon)
+(n Progress)
 
 ### 🔹 LLMOps RAG Application  
 📌 [View Repository](https://github.com/PARTH-AI-DS20/llmops-rag) 
@@ -53,7 +53,7 @@
 - Deployed on *AWS/GCP* with containerized scaling  
 
 ---
-(coming soon)
+(Planned)
 
 ### 🔹 Open Source Contribution – MLflow  
 📌 [Pull Request / Repo](https://github.com/mlflow/mlflow/pull/xxxx)  
@@ -63,15 +63,20 @@
 
 ---
 ## 📊 GitHub Stats  
+...
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PARTH-AI-DS20&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PARTH-AI-DS20&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PARTH-AI-DS20&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PARTH-AI-DS20&theme=radical" alt="GitHub Streak" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARTH-AI-DS20&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARTH-AI-DS20&layout=compact&theme=radical" alt="Top Languages" height="150"/>
   <img src="https://github-profile-trophy.vercel.app/?username=PARTH-AI-DS20&theme=onedark"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parth-chauhan&color=blue"/>
 </p>
 
 ---
@@ -93,3 +98,5 @@
 </p>  
 
 📫 *Email:* Path.pc77@gmail.com
+
+---
