@@ -86,6 +86,7 @@
 
 ### 📊 GitHub Stats  
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PARTH-AI-DS20&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PARTH-AI-DS20&theme=radical" alt="GitHub Streak" height="150"/>
@@ -95,7 +96,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARTH-AI-DS20&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
 
+
 [![Parth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PARTH-AI-DS20&theme=github_dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=parth-chauhan&color=blue"/>
@@ -106,6 +109,7 @@
 
 
 ### 🌐 Connect with Me  
+
 
 <p align="center">
   <a href="https://github.com/PARTH-AI-DS20/">
