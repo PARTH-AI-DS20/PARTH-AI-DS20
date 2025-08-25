@@ -1,12 +1,15 @@
-### 👋 Hi, I'm Parth
+<p align="center">
+  <img src="assests/Abstract Technology Profile LinkedIn Banner (2).png "  />
+</p>
 
-*"Perseverance builds the path; joy makes it worth walking."*
+## 👋 Welcome to my GitHub!
+<h3 align="left">🚀 Aspiring MLOps Engineer | Building Scalable ML Pipelines</h3>
 
 
 •• ━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
 
 
-🚀 *Aspiring MLOps Engineer | AI & Data Science Student*  
+🚀 * AI & Data Science Student*  
 💡 Passionate about transforming ML research into *production-ready AI systems*  
 🔧 learning Skills in *Docker, Kubernetes, Cloud, and ML pipelines*  
 🎯 Current Goal: Build scalable and reliable AI solutions 
