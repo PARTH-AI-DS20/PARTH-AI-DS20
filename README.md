@@ -2,7 +2,7 @@
   <img src="assests/Abstract Technology Profile LinkedIn Banner (2).png "  />
 </p>
 
-👋 Welcome to my GitHub!
+<h3>👋 Welcome to my GitHub!</h3>
 
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
 
