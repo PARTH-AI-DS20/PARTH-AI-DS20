@@ -2,7 +2,11 @@
   <img src="assests/Abstract Technology Profile LinkedIn Banner (2).png "  />
 </p>
 
-## 👋 Welcome to my GitHub!
+👋 Welcome to my GitHub!
+
+<p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
+
+
 <h3 align="left">🚀 Aspiring MLOps Engineer | Building Scalable ML Pipelines</h3>
 
 
