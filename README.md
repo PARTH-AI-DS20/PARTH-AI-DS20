@@ -3,12 +3,13 @@
 </p>
 
 
-<h3>👋 Welcome to my GitHub!</h3>
+<h3 align="center">👋 Welcome to my GitHub!</h3>
+
 
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
 
 
-<h3 align="left">🚀 Aspiring MLOps Engineer | Building Scalable ML Pipelines</h3>
+<h3 align="center">🚀 Aspiring MLOps Engineer | Building Scalable ML Pipelines</h3>
 
 
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
@@ -16,14 +17,14 @@
 
 🚀 * AI & Data Science Student*  
 💡 Passionate about transforming ML research into *production-ready AI systems*  
-🔧 learning Skills in *Docker, Kubernetes, Cloud, and ML pipelines*  
+🔧 currently learning *Docker, Kubernetes, Cloud, and ML pipelines*  
 🎯 Current Goal: Build scalable and reliable AI solutions 
 
 
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
 
 
-### 🛠 Tech Stack  ( Actively building expertise — always expanding! )
+<h3 align="center">🛠 Tech Stack  ( Actively building expertise — always expanding! )</h3>
 
 *Languages & Scripting*  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -53,7 +54,8 @@
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
 
 
-### 🚀 Featured Projects 
+<h3 align="center">🚀 Featured Projects </h3>
+
 
 🔹 End-to-End MLOps Pipeline
 
@@ -70,7 +72,7 @@
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
 
 
-🔹 LLMOps RAG Application(n Progress)
+🔹 LLMOps RAG Application (In Progress)
 
 📌 [View Repository](https://github.com/PARTH-AI-DS20/llmops-rag)
 
@@ -82,7 +84,7 @@
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
 
 
-🔹 Open Source Contribution – MLflow(Planned)
+🔹 Open Source Contribution – MLflow (Planned)
 
 📌 [Pull Request / Repo](https://github.com/mlflow/mlflow/pull/xxxx)
 - Fixed a bug / added a small feature in *MLflow* (popular MLOps tool)  
@@ -93,7 +95,8 @@
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
 
 
-### 📊 GitHub Stats  
+<h3 align="center">📊 GitHub Stats</h3>
+  
 
 
 <p align="center">
@@ -117,7 +120,8 @@
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
 
 
-### 🌐 Connect with Me  
+<h3 align="center">🌐 Connect with Me </h3>
+
 
 
 <p align="center">
