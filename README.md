@@ -24,7 +24,28 @@
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
 
 
+<h3 align="center">👨‍💻About Me</h3>
+
+
+<p align="center">
+
+  
+Hey! I'm Parth👋
+I'm 18 and studying <b>AI & Data Science</b>, but more than chasing grades, I'm diving into <b>MLOps</b> - learnings how to build pipelines, deploy models, and keep them running reliably. 
+
+Outside of tech, I'm curious about psychology, philosophy and music. for now, my mission is simple: <b>learn fast, build faster, share the journey, and be happy</b>
+
+🍀 At the end of the day, I believe in one thing: <b>keep things simple, and you'll be happy 😊</b> 
+
+
+</p>
+
+
+<p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
+
+
 <h3 align="center">🛠 Tech Stack  ( Actively building expertise — always expanding! )</h3>
+
 
 *Languages & Scripting*  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -61,12 +82,13 @@
 
 📌 [View Repository](https://github.com/PARTH-AI-DS20/mlops-pipeline)
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PARTH-AI-DS20&repo=mlops-pipeline&theme=tokyonight)](https://github.com/PARTH-AI-DS20/mlops-pipeline"/>
+</p>
+
 - Trained and deployed an ML model using *Docker, CI/CD (GitHub Actions), and Kubernetes*  
 - Automated retraining on new data with *Airflow*  
 - Monitored performance metrics in production
-
-
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PARTH-AI-DS20&repo=mlops-pipeline&theme=tokyonight)](https://github.com/PARTH-AI-DS20/mlops-pipeline)
 
 
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
@@ -95,6 +117,18 @@
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
 
 
+<h3 align="center">📅 Currently Working On</h3>
+
+
+-  🔧 Building an **end-to-end MLOps pipeline** with Docker, GitHub Action's & Kubernetes
+-  🤖 Experimenting with **LLMOps & RAG applications** (LangChain + FastAPI)
+-  ✍️ Writing amd sharing my learning journey on **LinkedIn & Medium**
+-  🌱 Continuously refining my skills in **scalable ML systems & automation**
+
+
+<p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
+
+
 <h3 align="center">📊 GitHub Stats</h3>
   
 
@@ -117,12 +151,10 @@
 </p>
 
 
-
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
 
 
 <h3 align="center">🌐 Connect with Me </h3>
-
 
 
 <p align="center">
