@@ -15,7 +15,7 @@
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
 
 
-🚀 * AI & Data Science Student*  
+🚀 *AI & Data Science Student*  
 💡 Passionate about transforming ML research into *production-ready AI systems*  
 🔧 currently learning *Docker, Kubernetes, Cloud, and ML pipelines*  
 🎯 Current Goal: Build scalable and reliable AI solutions 
@@ -77,7 +77,7 @@
 📌 [View Repository](https://github.com/PARTH-AI-DS20/llmops-rag)
 
 - Built a *Retrieval-Augmented Generation pipeline* using LangChain + FastAPI  
-- Integrated with *vector database (Pinecone / FAISS)*  
+- Integrated with a *vector database (Pinecone / FAISS)*  
 - Deployed on *AWS/GCP* with containerized scaling  
 
 
@@ -113,10 +113,11 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parth-chauhan&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=PARTH-AI-DS20&color=blue"/>
 </p>
 
 
+<p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
 
 
@@ -138,6 +139,12 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>  
+
+
+<p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
+
+
+<p align="center">"Be happy and live a life you want."</p>
 
 
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
