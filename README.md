@@ -78,7 +78,7 @@ Outside of tech, I'm curious about psychology, philosophy, and music. For now, m
 
 🔹 End-to-End MLOps Pipeline
 
-📌 [View Repository](https://github.com/PARTH-AI-DS20/mlops-pipeline)
+📌 [View Repository](https://github.com/PARTH-AI-DS20/End-to-End-MLOps-Pipeline)
 
 
 |Built a robust MLOps pipeline for sentiment analysis, automating ingestion, training, CI/CD, and deployment.|
