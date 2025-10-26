@@ -31,9 +31,9 @@
 
   
 Hey! I'm Parth👋
-I'm 18 and studying <b>AI & Data Science</b>, but more than chasing grades, I'm diving into <b>MLOps</b> - learnings how to build pipelines, deploy models, and keep them running reliably. 
+I'm 19 and studying <b>AI & Data Science</b>, but more than chasing grades, I'm diving into <b>MLOps</b> - learning how to build pipelines, deploy models, and keep them running reliably. 
 
-Outside of tech, I'm curious about psychology, philosophy and music. for now, my mission is simple: <b>learn fast, build faster, share the journey, and be happy</b>
+Outside of tech, I'm curious about psychology, philosophy, and music. For now, my mission is simple: <b>learn fast, build faster, share the journey, and be happy</b>
 
 🍀 At the end of the day, I believe in one thing: <b>keep things simple, and you'll be happy 😊</b> 
 
@@ -55,7 +55,6 @@ Outside of tech, I'm curious about psychology, philosophy and music. for now, my
 *Machine Learning & AI*  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 
 *MLOps & Deployment*  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
@@ -65,11 +64,10 @@ Outside of tech, I'm curious about psychology, philosophy and music. for now, my
 
 *Web & APIs*  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
 
 *Cloud Platforms*  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 
 
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
@@ -86,9 +84,11 @@ Outside of tech, I'm curious about psychology, philosophy and music. for now, my
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PARTH-AI-DS20&repo=mlops-pipeline&theme=tokyonight)](https://github.com/PARTH-AI-DS20/mlops-pipeline"/>
 </p>
 
-- Trained and deployed an ML model using *Docker, CI/CD (GitHub Actions), and Kubernetes*  
-- Automated retraining on new data with *Airflow*  
-- Monitored performance metrics in production
+|Built a robust MLOps pipeline for sentiment analysis, automating ingestion, training, CI/CD, and deployment.|
+
+-Problem: Manual model deployment took 2+ days
+-Solution: Automated pipeline cut deployment to 15 minutes
+-Impact: 89% accuracy, 10x faster release
 
 
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
