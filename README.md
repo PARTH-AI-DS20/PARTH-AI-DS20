@@ -93,7 +93,7 @@ Outside of tech, I'm curious about psychology, philosophy, and music. For now, m
 
 🔹 Real-time Image Classification API (In Progress)
 
-📌 [View Repository](https://github.com/PARTH-AI-DS20/llmops-rag)
+📌 [View Repository](https://github.com/PARTH-AI-DS20/Real-time-Image-Classification-API)
 
 | Containerized and deployed a PyTorch model as a high-volume REST API with Kubernetes and AWS .|
 
@@ -106,7 +106,7 @@ Outside of tech, I'm curious about psychology, philosophy, and music. For now, m
 
 🔹 ML Model Monitoring Dashboard (Planned)
 
-📌  [View Repository](https://github.com/PARTH-AI-DS20/llmops-rag)
+📌  [View Repository](https://github.com/PARTH-AI-DS20/ML-Model-Monitoring-Dashboard)
 
 |Real-time monitoring for production ML using Prometheus and Grafana to track metrics, drift, and alert on issues automatically|
 
