@@ -80,39 +80,39 @@ Outside of tech, I'm curious about psychology, philosophy, and music. For now, m
 
 📌 [View Repository](https://github.com/PARTH-AI-DS20/mlops-pipeline)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PARTH-AI-DS20&repo=mlops-pipeline&theme=tokyonight)](https://github.com/PARTH-AI-DS20/mlops-pipeline"/>
-</p>
 
 |Built a robust MLOps pipeline for sentiment analysis, automating ingestion, training, CI/CD, and deployment.|
 
--Problem: Manual model deployment took 2+ days
--Solution: Automated pipeline cut deployment to 15 minutes
--Impact: 89% accuracy, 10x faster release
+- Problem: Manual model deployment took 2+ days
+- Solution: Automated pipeline cut deployment to 15 minutes
+- Impact: 89% accuracy, 10x faster release
 
 
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
 
 
-🔹 LLMOps RAG Application (In Progress)
+🔹 Real-time Image Classification API (In Progress)
 
 📌 [View Repository](https://github.com/PARTH-AI-DS20/llmops-rag)
 
-- Built a *Retrieval-Augmented Generation pipeline* using LangChain + FastAPI  
-- Integrated with a *vector database (Pinecone / FAISS)*  
-- Deployed on *AWS/GCP* with containerized scaling  
+| Containerized and deployed a PyTorch model as a high-volume REST API with Kubernetes and AWS .|
 
+- Challenge: Scaling with low latency for 1000+ req/min
+- Approach: Automatic autoscaling and monitoring
+- Result: <200ms latency, 99.9% uptime
 
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
 
 
-🔹 Open Source Contribution – MLflow (Planned)
+🔹 ML Model Monitoring Dashboard (Planned)
 
 📌 [Pull Request / Repo](https://github.com/mlflow/mlflow/pull/xxxx)
-- Fixed a bug / added a small feature in *MLflow* (popular MLOps tool)  
-- Learned the workflow of contributing to large OSS projects  
-- Proof of *community involvement* in MLOps
 
+|Real-time monitoring for production ML using Prometheus and Grafana to track metrics, drift, and alert on issues automatically|
+
+- Goal: Detect and address drift before accuracy drops
+- Implementation: Alerting & dashboards for live models
+- Outcome: Reduced downtime by 60%
 
 <p align="center">•• ━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━ ••</p>
 
@@ -121,8 +121,7 @@ Outside of tech, I'm curious about psychology, philosophy, and music. For now, m
 
 
 -  🔧 Building an **end-to-end MLOps pipeline** with Docker, GitHub Action's & Kubernetes
--  🤖 Experimenting with **LLMOps & RAG applications** (LangChain + FastAPI)
--  ✍️ Writing amd sharing my learning journey on **LinkedIn & Medium**
+-  ✍️ Writing and sharing my learning journey on **LinkedIn**
 -  🌱 Continuously refining my skills in **scalable ML systems & automation**
 
 
